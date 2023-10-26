@@ -39,3 +39,17 @@ ul {
     text-align: left;
     display: inline-block
 }
+
+ol {
+    text-align: left;
+    display: inline-block
+
+}
+ 
+a:hover{ 
+color: red
+}
+
+a:visited {
+color: purple
+}
